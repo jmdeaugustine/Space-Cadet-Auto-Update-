@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=gnome-terminal --geometry=800x404+0+0 -- /home/home/Documents/Scripts/auto-upgrade.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Autostart the upgrade script when logging in
+Comment=Have fun with it! 
